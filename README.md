@@ -6,4 +6,4 @@ I completed a BSc in Electronics Engineering in 2017, briefly worked as an elect
 
 In 2023, I picked up some freelance data analyst work (mostly creating royalties reports for musicians). I developed some basic Python skills through this work and moved on to working as a data annotator for a US based company, Data Annotation. This work involves rating and correcting AI chatbots on a range of data science and math topics including Python programming, which has really helped develop my coding skills.
 
-In August 2024, I studied full stack web development at Dev Academy Aotearoa. This course provided invaluable opportunities for group and pair coding work, with a focus on Javascript/Typescript and the React framework. All projects that were completed at Dev Academy has a repository name starting with DA. 
+In August 2024, I studied full stack web development at Dev Academy Aotearoa. This course provided invaluable opportunities for group and pair coding work, with a focus on Javascript/Typescript and the React framework. All projects that were completed at Dev Academy have a repository name starting with DA. 
